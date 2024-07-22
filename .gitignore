@@ -1,0 +1,12 @@
+# package directories
+node_modules
+coverage/
+.DS_Store
+.vscode
+.idea
+.npmrc
+.history
+lib/
+docs/typedoc
+.env
+.eslintcache
